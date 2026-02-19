@@ -1,0 +1,7 @@
+{
+  "name": "Sanchita AI - Personal Assistant",
+  "description": "A high-performance personal AI assistant developed by Mr. Kundan Sharma, featuring multilingual support, voice-activated commands, web browsing, and WhatsApp simulation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
